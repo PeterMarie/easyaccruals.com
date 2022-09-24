@@ -1,0 +1,2 @@
+[12-Mar-2022 10:26:46 UTC] PHP Warning:  require_once(../../inc/db.php): failed to open stream: No such file or directory in /home/easyaccr/public_html/combs/includes/tables.php on line 5
+[12-Mar-2022 10:26:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../../inc/db.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/easyaccr/public_html/combs/includes/tables.php on line 5

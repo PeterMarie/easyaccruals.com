@@ -1,0 +1,22 @@
+/*All devices */
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 500;
+}
+
+/*Mobile Devices*/
+
+
+/*Tablets*/
+@media only screen and (min-width: 600px){
+}
+
+/*Desktop Styles*/
+@media only screen and (min-width: 768px){
+}
+
+/*for wide screens*/
+@media only screen and (orientation: landscape) {
+
+}

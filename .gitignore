@@ -1,0 +1,9 @@
+inc/db.php
+.env
+.well-known/
+cgi-bin/
+.htaccess
+debug.log
+combs/.htaccess
+combs/error_log
+combs/.well-known/
